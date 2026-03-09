@@ -9,7 +9,7 @@
 
 .newcards > ul > li {
   border: 1px solid #dadada;
-  background-color: rgb(152, 152, 202);
+  background-color: rgb(152 152 202);
 }
 
 .newcards .cards-card-body {
