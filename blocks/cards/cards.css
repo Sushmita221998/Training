@@ -26,7 +26,11 @@
   object-fit: cover;
 }
 
-/* Added Styles for section metadata */ 
+/* Added Styles for section metadata */
 .new-cards-css {
   background-color: rgb(244 179 190);
+}
+
+.new-cards-css .cards>ul>li {
+  background-color: rgb(136 136 219);
 }
