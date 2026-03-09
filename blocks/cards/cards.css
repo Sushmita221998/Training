@@ -27,11 +27,11 @@
 }
 
 /* Added Styles for section metadata */ 
-.cards-wrapper.new_css {
+.cards-wrapper.newCss {
   background-color: rgb(244 179 190);
 }
 
-.cards > ul > li.new_cards_css {
+.cards > ul > li.newCardsCss {
   border: 1px solid #dadada;
   background-color: rgb(221, 157, 221);
 }
