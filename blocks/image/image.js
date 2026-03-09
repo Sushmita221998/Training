@@ -7,7 +7,6 @@ export default function decorate(block) {
     img.src = imageUrl;
     img.alt = link.textContent;
     img.loading = 'lazy';
-
     block.textContent = '';
     block.appendChild(img);
   }
