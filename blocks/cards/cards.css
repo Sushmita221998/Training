@@ -25,3 +25,13 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+/* Added Styles for section metadata */ 
+.cards-wrapper.new_css {
+  background-color: rgb(244 179 190);
+}
+
+.cards > ul > li.new_cards_css {
+  border: 1px solid #dadada;
+  background-color: rgb(221, 157, 221);
+}
